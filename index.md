@@ -14,8 +14,8 @@
 				console.log('initEmbeddedMessaging', 'embeddedservice_bootstrap');
 				embeddedservice_bootstrap.init(
 					'00D2w000007Ph69',
-					'rxop__force_com',
-					'https://crmified-dk-dev-ed.my.site.com/ESWforcecom1717415472240',
+					'rxop__MIAW_Github',
+					'https://crmified-dk-dev-ed.my.site.com/ESWMIAWGithub1717401177483',
 					{
 						scrt2URL: 'https://crmified-dk-dev-ed.my.salesforce-scrt.com'
 					}
@@ -26,6 +26,6 @@
 			}
 		};
 	</script>
-	<script type='text/javascript' src='https://crmified-dk-dev-ed.my.site.com/ESWforcecom1717415472240/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+	<script type='text/javascript' src='https://crmified-dk-dev-ed.my.site.com/ESWMIAWGithub1717401177483/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
 </body>
 </html>
